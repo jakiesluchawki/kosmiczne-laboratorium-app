@@ -1,0 +1,28 @@
+{
+  "name": "Kosmiczne laboratorium",
+  "short_name": "Kosmos",
+  "id": "./",
+  "lang": "pl",
+  "dir": "ltr",
+  "description": "Malarskie, dotykowe eksperymenty z grawitacją, orbitami, porami roku i fazami Księżyca",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#11143c",
+  "theme_color": "#11143c",
+  "categories": ["education", "games", "kids"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./icons/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
