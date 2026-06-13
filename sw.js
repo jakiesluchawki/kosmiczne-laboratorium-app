@@ -1,4 +1,4 @@
-const CACHE = "kosmiczne-laboratorium-9ecce5440fe6b35d";
+const CACHE = "kosmiczne-laboratorium-eb593f396fc8c8b1";
 const OFFLINE_URL = "./index.html";
 const PRECACHE_URLS = [
   "./404.html",
@@ -45,10 +45,10 @@ const PRECACHE_URLS = [
   "./art/painted-apollo-13-docked.png",
   "./art/painted-apollo-13.png",
   "./art/painted-apollo13.png",
-  "./art/painted-earth-atmospheric.png",
+  "./art/painted-earth-cutout.png",
   "./art/painted-earth.png",
   "./art/painted-galileo.png",
-  "./art/painted-jupiter-atmospheric.png",
+  "./art/painted-jupiter-cutout.png",
   "./art/painted-magnet.png",
   "./art/painted-moon.png",
   "./art/painted-orbit-car-coral.png",
@@ -62,11 +62,11 @@ const PRECACHE_URLS = [
   "./art/planets/saturn.png",
   "./art/planets/uranus.png",
   "./art/planets/venus.png",
-  "./assets/index-DbYYW7Ed.css",
-  "./assets/index-DetE5aSn.js",
-  "./assets/web-35akcDWg.js",
-  "./assets/web-BPhHZlhA.js",
-  "./assets/web-re2Oh3dI.js",
+  "./assets/index-BpC7qMaR.css",
+  "./assets/index-CR7PA6fP.js",
+  "./assets/web-CwptR4VL.js",
+  "./assets/web-DhaQapgj.js",
+  "./assets/web-oEZK4jfT.js",
   "./audio/music/bright-future.mp3",
   "./audio/music/fragile-nature.mp3",
   "./audio/music/glittering-grandeur.mp3",
