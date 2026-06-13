@@ -65,10 +65,10 @@
       "manualResolved": 0,
       "manualTotal": 38,
       "machinePreflight": {
-        "pass": 16,
+        "pass": 0,
         "fail": 0,
-        "error": 1,
-        "pending": 19,
+        "error": 0,
+        "pending": 36,
         "total": 36
       }
     },
