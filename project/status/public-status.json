@@ -26,6 +26,10 @@
     "finalHumanCueCount": 0,
     "missingHumanCueCount": 121,
     "temporaryFallbackCueCount": 2,
+    "embeddedAudio": {
+      "referencedClipCount": 67,
+      "playableClipCount": 67
+    },
     "studioPipeline": "READY AFTER LOCK"
   },
   "appStore": {

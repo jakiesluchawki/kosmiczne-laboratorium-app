@@ -321,7 +321,7 @@
       "id": "narration-summary",
       "section": "narration",
       "name": "Piotr i Tomek: stan narracji",
-      "description": "121 kwestii: 17 Piotra i 104 Tomka. Publicznie pokazujemy tylko agregaty.",
+      "description": "121 kwestii: 17 Piotra i 104 Tomka. Osadzone audio: 67/67 plików przechodzi walidację odtwarzania.",
       "status": {
         "label": "DRAFT / UNLOCKED",
         "tone": "waiting"
