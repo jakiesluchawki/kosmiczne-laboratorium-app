@@ -6,7 +6,7 @@
   "build": {
     "version": "1.0",
     "number": "1",
-    "nativePreflightCurrent": false
+    "nativePreflightCurrent": true
   },
   "review": {
     "access": "local-only",
@@ -34,7 +34,7 @@
   },
   "appStore": {
     "status": "WAITING",
-    "blockerCount": 6,
+    "blockerCount": 5,
     "blockers": [
       {
         "id": "metadata",
@@ -51,10 +51,6 @@
       {
         "id": "narration",
         "label": "Finalne nagrania Piotra i Tomka nie są jeszcze zintegrowane."
-      },
-      {
-        "id": "technical",
-        "label": "Techniczny preflight wydania wymaga odświeżenia."
       },
       {
         "id": "devices",
