@@ -67,8 +67,8 @@
       "machinePreflight": {
         "pass": 0,
         "fail": 0,
-        "error": 0,
-        "pending": 36,
+        "error": 1,
+        "pending": 35,
         "total": 36
       }
     },
