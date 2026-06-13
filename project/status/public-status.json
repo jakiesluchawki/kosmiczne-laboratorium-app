@@ -56,6 +56,18 @@
     "metadataLocked": false,
     "madeForKidsDecision": "pending",
     "physicalQaComplete": false,
+    "physicalQa": {
+      "manualComplete": false,
+      "manualResolved": 0,
+      "manualTotal": 38,
+      "machinePreflight": {
+        "pass": 16,
+        "fail": 0,
+        "error": 1,
+        "pending": 19,
+        "total": 36
+      }
+    },
     "screenshotPlan": {
       "status": "PREVIEW ONLY",
       "shotsPerDevice": 9,
