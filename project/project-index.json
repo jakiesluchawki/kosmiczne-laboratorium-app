@@ -297,6 +297,106 @@
           "kind": "view"
         }
       ]
+    },
+    {
+      "id": "private-review-summary",
+      "section": "application",
+      "name": "Review i stół reżyserski",
+      "description": "Publiczny indeks pokazuje stan prac, ale szczegółowe review i prywatne materiały działają wyłącznie lokalnie.",
+      "status": {
+        "label": "LOCAL ONLY",
+        "tone": "review"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Zobacz zasady dostępu",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#review",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "narration-summary",
+      "section": "narration",
+      "name": "Piotr i Tomek: stan narracji",
+      "description": "121 kwestii: 17 Piotra i 104 Tomka. Publicznie pokazujemy tylko agregaty.",
+      "status": {
+        "label": "DRAFT / UNLOCKED",
+        "tone": "waiting"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Zobacz stan narracji",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#narration",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "studio-summary",
+      "section": "narration",
+      "name": "Pipeline nagrań studyjnych",
+      "description": "Dwa kompletne mastery są sprawdzane i integrowane razem, z automatycznym rollbackiem po błędzie.",
+      "status": {
+        "label": "READY AFTER LOCK",
+        "tone": "review"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Zobacz gotowość studia",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#studio",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "app-store-summary",
+      "section": "release",
+      "name": "Gotowość App Store",
+      "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum, bez raportów urządzeń.",
+      "status": {
+        "label": "WAITING · 5 BLOKAD",
+        "tone": "waiting"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Zobacz stan wydania",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#app-store",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz bezpieczny JSON",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/public-status.json",
+          "kind": "download"
+        }
+      ]
+    },
+    {
+      "id": "screenshots-summary",
+      "section": "release",
+      "name": "Materiały App Store",
+      "description": "18 kompozycji podglądowych: po 9 dla iPhone'a i iPada.",
+      "status": {
+        "label": "PREVIEW ONLY",
+        "tone": "review"
+      },
+      "sourceBranch": "main",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Zobacz plan kadrów",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#screenshots",
+          "kind": "view"
+        }
+      ]
     }
   ],
   "access": "public"

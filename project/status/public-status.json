@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "access": "public-summary",
+  "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/",
+  "updatedAt": "2026-06-13",
+  "build": {
+    "version": "1.0",
+    "number": "1",
+    "nativePreflightCurrent": true
+  },
+  "review": {
+    "access": "local-only",
+    "publicReviewPublished": false,
+    "note": "Szczegółowe review, scenariusze, głosy i raporty QA pozostają poza publicznym buildem."
+  },
+  "narration": {
+    "status": "DRAFT / UNLOCKED",
+    "scriptLocked": false,
+    "cueCount": 121,
+    "roles": {
+      "piotr": 17,
+      "tomek": 104
+    },
+    "approvedSections": 0,
+    "totalSections": 13,
+    "finalHumanCueCount": 0,
+    "missingHumanCueCount": 121,
+    "temporaryFallbackCueCount": 2,
+    "studioPipeline": "READY AFTER LOCK"
+  },
+  "appStore": {
+    "status": "WAITING",
+    "blockerCount": 5,
+    "blockers": [
+      {
+        "id": "metadata",
+        "label": "Metadane App Store czekają na zatwierdzony LOCK."
+      },
+      {
+        "id": "kids",
+        "label": "Decyzja Made for Kids pozostaje otwarta."
+      },
+      {
+        "id": "script",
+        "label": "Scenariusz dwóch narratorów nie ma jeszcze LOCK."
+      },
+      {
+        "id": "narration",
+        "label": "Finalne nagrania Piotra i Tomka nie są jeszcze zintegrowane."
+      },
+      {
+        "id": "devices",
+        "label": "Ręczne QA na fizycznym iPhonie i iPadzie pozostaje otwarte."
+      }
+    ],
+    "metadataLocked": false,
+    "madeForKidsDecision": "pending",
+    "physicalQaComplete": false,
+    "screenshotPlan": {
+      "status": "PREVIEW ONLY",
+      "shotsPerDevice": 9,
+      "deviceClasses": 2,
+      "totalCompositions": 18
+    }
+  },
+  "links": {
+    "application": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/",
+    "projectIndex": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/",
+    "statusJson": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/public-status.json",
+    "privacy": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/privacy/",
+    "support": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/support/"
+  }
+}
