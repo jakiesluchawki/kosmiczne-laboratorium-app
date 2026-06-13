@@ -340,7 +340,7 @@
       "id": "studio-summary",
       "section": "narration",
       "name": "Pipeline nagrań studyjnych",
-      "description": "Dwa kompletne mastery są sprawdzane i integrowane razem, z automatycznym rollbackiem po błędzie.",
+      "description": "Dwa kompletne mastery są integrowane razem. Każdy zakodowany klip przechodzi kontrolę poziomu, czasu, balansu i SHA-256 oraz automatyczny rollback po błędzie.",
       "status": {
         "label": "READY AFTER LOCK",
         "tone": "review"
