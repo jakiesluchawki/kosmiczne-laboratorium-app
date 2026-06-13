@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "access": "public-summary",
-  "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/",
+  "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/",
   "updatedAt": "2026-06-13",
   "build": {
     "version": "1.0",
     "number": "1",
-    "nativePreflightCurrent": true
+    "nativePreflightCurrent": false
   },
   "review": {
     "access": "local-only",
@@ -34,7 +34,7 @@
   },
   "appStore": {
     "status": "WAITING",
-    "blockerCount": 5,
+    "blockerCount": 6,
     "blockers": [
       {
         "id": "metadata",
@@ -53,6 +53,10 @@
         "label": "Finalne nagrania Piotra i Tomka nie są jeszcze zintegrowane."
       },
       {
+        "id": "technical",
+        "label": "Techniczny preflight wydania wymaga odświeżenia."
+      },
+      {
         "id": "devices",
         "label": "Ręczne QA na fizycznym iPhonie i iPadzie pozostaje otwarte."
       }
@@ -67,8 +71,8 @@
       "machinePreflight": {
         "pass": 0,
         "fail": 0,
-        "error": 1,
-        "pending": 35,
+        "error": 0,
+        "pending": 36,
         "total": 36
       }
     },
@@ -86,10 +90,10 @@
     }
   },
   "links": {
-    "application": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/",
-    "projectIndex": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/",
-    "statusJson": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/public-status.json",
-    "privacy": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/privacy/",
-    "support": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/support/"
+    "application": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/",
+    "projectIndex": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/",
+    "statusJson": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/public-status.json",
+    "privacy": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/privacy/",
+    "support": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/support/"
   }
 }

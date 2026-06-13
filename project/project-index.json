@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/",
+  "canonicalUrl": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/",
   "title": "Kosmiczne Laboratorium - indeks projektu",
   "summary": "Publiczna aplikacja, bezpieczne strony projektu oraz wszystkie gotowe materiały social media. Narzędzia review, głosy i dane urządzeń pozostają lokalne.",
   "entries": [
@@ -18,7 +18,7 @@
       "links": [
         {
           "label": "Otwórz aplikację",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/",
           "kind": "view"
         }
       ]
@@ -37,12 +37,12 @@
       "links": [
         {
           "label": "Otwórz indeks",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/",
           "kind": "view"
         },
         {
           "label": "Pobierz manifest JSON",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/project-index.json",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/project-index.json",
           "kind": "download"
         }
       ]
@@ -61,12 +61,12 @@
       "links": [
         {
           "label": "Polityka prywatności",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/privacy/",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/privacy/",
           "kind": "view"
         },
         {
           "label": "Wsparcie",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/support/",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/support/",
           "kind": "view"
         }
       ]
@@ -312,7 +312,7 @@
       "links": [
         {
           "label": "Zobacz zasady dostępu",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#review",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#review",
           "kind": "view"
         }
       ]
@@ -331,7 +331,7 @@
       "links": [
         {
           "label": "Zobacz stan narracji",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#narration",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#narration",
           "kind": "view"
         }
       ]
@@ -350,7 +350,7 @@
       "links": [
         {
           "label": "Zobacz gotowość studia",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#studio",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#studio",
           "kind": "view"
         }
       ]
@@ -361,7 +361,7 @@
       "name": "Gotowość App Store",
       "description": "Publiczne podsumowanie metadanych, narracji, QA i bramek przed archiwum. Audyt Kids/App Review: 9/9; automatyczny preflight urządzeń: 0/36.",
       "status": {
-        "label": "WAITING · 5 BLOKAD",
+        "label": "WAITING · 6 BLOKAD",
         "tone": "waiting"
       },
       "sourceBranch": "main",
@@ -369,12 +369,12 @@
       "links": [
         {
           "label": "Zobacz stan wydania",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#app-store",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#app-store",
           "kind": "view"
         },
         {
           "label": "Pobierz bezpieczny JSON",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/public-status.json",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/public-status.json",
           "kind": "download"
         }
       ]
@@ -393,7 +393,7 @@
       "links": [
         {
           "label": "Zobacz plan kadrów",
-          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-app/project/status/#screenshots",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium/project/status/#screenshots",
           "kind": "view"
         }
       ]
