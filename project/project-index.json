@@ -81,11 +81,40 @@
         "tone": "live"
       },
       "sourceBranch": "SM",
-      "updatedAt": "2026-06-12",
+      "updatedAt": "2026-06-13",
       "links": [
         {
           "label": "Otwórz stronę pobrań",
           "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/",
+          "kind": "view"
+        }
+      ]
+    },
+    {
+      "id": "social-magnet",
+      "section": "social",
+      "name": "Magnes: nie każdy metal",
+      "description": "Pięć Stories, dwa obrazy i copy o tym, które metale są ferromagnetyczne.",
+      "status": {
+        "label": "READY",
+        "tone": "ready"
+      },
+      "sourceBranch": "SM",
+      "updatedAt": "2026-06-13",
+      "links": [
+        {
+          "label": "Podgląd",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-magnet-not-every-metal/preview.png",
+          "kind": "view"
+        },
+        {
+          "label": "Pobierz ZIP",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-magnet-not-every-metal/magnet-not-every-metal.zip",
+          "kind": "download"
+        },
+        {
+          "label": "Tekst posta",
+          "url": "https://jakiesluchawki.github.io/kosmiczne-laboratorium-media/2026-06-13-magnet-not-every-metal/linkedin-facebook-post.md",
           "kind": "view"
         }
       ]
