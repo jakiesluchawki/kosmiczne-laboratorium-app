@@ -147,7 +147,15 @@
     .actions a:hover, .actions a:focus-visible { border-color: var(--mint); outline: 3px solid rgba(157, 228, 208, .18); outline-offset: 2px; }
     .local-notice { max-width: 760px; margin-top: 24px; padding: 15px 17px; border: 1px solid rgba(237, 202, 117, .45); border-radius: 15px; color: #f6dfaa; background: rgba(87, 64, 17, .22); line-height: 1.5; }
     footer { margin-top: 58px; padding-top: 22px; border-top: 1px solid rgba(185, 199, 216, .18); color: rgba(185, 199, 216, .64); line-height: 1.55; }
-    footer a { color: var(--mint); }
+    footer a {
+      display: inline-block;
+      min-height: 44px;
+      padding: 11px 0;
+      color: var(--mint);
+      line-height: 22px;
+      overflow-wrap: anywhere;
+      vertical-align: middle;
+    }
     @media (max-width: 720px) {
       main { width: min(100% - 22px, 620px); padding-top: 38px; }
       .summary, .grid { grid-template-columns: 1fr; }
