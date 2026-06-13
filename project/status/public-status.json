@@ -61,6 +61,12 @@
       "shotsPerDevice": 9,
       "deviceClasses": 2,
       "totalCompositions": 18
+    },
+    "complianceAudit": {
+      "status": "passed",
+      "auditedAt": "2026-06-13",
+      "controlCount": 9,
+      "passedControlCount": 9
     }
   },
   "links": {
